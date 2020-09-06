@@ -1,4 +1,4 @@
-# my_details_app
+# My_Details_app
 
 A new Flutter application.
 
